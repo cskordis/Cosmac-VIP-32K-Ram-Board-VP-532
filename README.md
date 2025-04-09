@@ -5,3 +5,5 @@ The logic on the board, thanks to Raymond Jett, allows the on board ram to funct
 The board had been tested successfully with the VP700 Tiny Basic board where a Print MEM gives a whopping 27893 bytes free. 
 
 It has also been tested with the VP550 Super Sound card playing multiple and continuously music.
+
+Thank you to Chuck (cmdrcosmac), Raymond Jett and Walter Miraglia for their advice and support.
