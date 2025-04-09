@@ -6,4 +6,4 @@ The board had been tested successfully with the VP700 Tiny Basic board where a P
 
 It has also been tested with the VP550 Super Sound card playing multiple and continuously music.
 
-Thank you to Chuck (cmdrcosmac), Raymond Jett and Walter Miraglia for their advice and support.
+***Thank you to Chuck (cmdrcosmac), Raymond Jett and Walter Miraglia for their advice and support.***
