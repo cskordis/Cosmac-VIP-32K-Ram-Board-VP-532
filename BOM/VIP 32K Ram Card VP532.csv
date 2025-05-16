@@ -6,7 +6,7 @@
 "D2","POWER","LED_THT:LED_D5.0mm","~","1",""
 "J1","~","LocalFP:CosmacVIPEdge","","1",""
 "R1,R2","1K","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~","2",""
-"U1","74LS573","Package_DIP:DIP-20_W7.62mm","74xx/74hc573.pdf","1",""
+"U1","74HC573","Package_DIP:DIP-20_W7.62mm","74xx/74hc573.pdf","1",""
 "U2","4011","Package_DIP:DIP-14_W7.62mm","http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4011bms-12bms-23bms.pdf","1",""
 "U3","4072","Package_DIP:DIP-14_W7.62mm","http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf","1",""
 "U4","HM62256BLP","Package_DIP:DIP-28_W15.24mm","https://web.mit.edu/6.115/www/document/62256.pdf","1",""
